@@ -21,8 +21,8 @@ I decided to create an app which generated and solved mazes. This was very inter
 time and project management, as well as code commenting and conciseness to be able to continue developing day by day and week by week. Screenshots are from the Project
 below.
 
-![Screenshot_10](https://user-images.githubusercontent.com/39033905/221936395-d5a26ca8-32da-463b-b776-c2a5c0c33782.png)
-![Screenshot_11](https://user-images.githubusercontent.com/39033905/221936413-4c2d95d0-9c28-4fa6-a852-3b4a54b14b07.png)
-![Screenshot_122![Screenshot_124](https://user-images.githubusercontent.com/39033905/221936476-be67c42c-4004-4a4b-8f26-b2e05e610957.png)
-](https://user-images.githubusercontent.com/39033905/221936461-a3925173-d46d-4f08-a441-b84350668747.png)
-![Screenshot_123](https://user-images.githubusercontent.com/39033905/221936470-2bf0a128-bf59-4144-a21b-850e72d46dae.png)
+
+![Screenshot_10](https://user-images.githubusercontent.com/39033905/221940052-2783d628-ace0-45bc-a364-6541be472679.png)
+![Screenshot_11](https://user-images.githubusercontent.com/39033905/221940068-83d4fefa-acdc-4281-9baf-a360ff6b54f0.png)
+![Screenshot_122](https://user-images.githubusercontent.com/39033905/221940076-f848d832-01c5-4987-933d-32830c8efc27.png)
+![Screenshot_123](https://user-images.githubusercontent.com/39033905/221940085-9fc6e651-2f07-49ce-9194-c6b70636beb7.png)
