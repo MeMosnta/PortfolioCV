@@ -1,0 +1,9 @@
+class Solution:
+    def searchInsert(self, nums: List[int], target: int) -> int:
+        if nums.count(target) > 0:
+            return nums.index(target)
+        else:
+            for counter,i in enumerate(nums):
+                if i > target:
+                    return counter
+            return len(nums)
