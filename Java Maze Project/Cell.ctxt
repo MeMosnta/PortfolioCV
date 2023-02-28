@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Cell
+comment1.params=i\ j
+comment1.target=Cell(int,\ int)
+comment2.params=
+comment2.target=void\ drawWalls()
+comment3.params=
+comment3.target=void\ clearPath()
+comment4.params=Previous
+comment4.target=void\ clearWalls(Cell)
+numComments=5

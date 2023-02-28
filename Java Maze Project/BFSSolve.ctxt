@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BFSSolve
+comment1.params=m\ d
+comment1.target=BFSSolve(Maze,\ int)
+comment2.params=Current\ ToCheck\ Checked\ Neighbours
+comment2.target=void\ Solve(Cell,\ java.util.LinkedList,\ java.util.LinkedList,\ java.util.ArrayList)
+numComments=3

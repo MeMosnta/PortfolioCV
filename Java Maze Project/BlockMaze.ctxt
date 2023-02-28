@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BlockMaze
+comment1.params=h\ w\ delay
+comment1.target=BlockMaze(int,\ int,\ int)
+comment2.params=PotentialMoves\ Current\ s
+comment2.target=void\ CreateMaze(java.util.ArrayList,\ Cell,\ java.util.Stack)
+comment3.params=Current\ nextCell
+comment3.target=void\ ClearPath(Cell,\ Cell)
+comment4.params=Current
+comment4.target=java.util.ArrayList\ GetAvailableMoves(Cell)
+numComments=5

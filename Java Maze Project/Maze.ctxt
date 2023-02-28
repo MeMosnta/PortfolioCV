@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Maze
+comment1.params=h\ w\ d
+comment1.target=Maze(int,\ int,\ int)
+comment2.params=PotentialMoves\ Current\ s
+comment2.target=void\ CreateMaze(java.util.ArrayList,\ Cell,\ java.util.Stack)
+comment3.params=Current
+comment3.target=java.util.ArrayList\ GetAvailableMoves(Cell)
+numComments=4

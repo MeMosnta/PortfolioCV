@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Solve
+comment1.params=m\ d
+comment1.target=Solve(Maze,\ int)
+comment2.params=Current
+comment2.target=java.util.ArrayList\ GetNeighbours(Cell)
+comment3.params=Current
+comment3.target=void\ showPath(Cell)
+numComments=4
