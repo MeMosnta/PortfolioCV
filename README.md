@@ -26,4 +26,3 @@ below.
 ![Screenshot](/PortfolioCV/Screenshot_123.png)
 
 ![Screenshot](/PortfolioCV/Screenshot_124.png)
-
