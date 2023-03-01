@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page One</title>
+    <style>
+        @font-face {
+            font-family: 'Open Sans';
+            src:  url('static/images/OpenSans/OpenSans-Regular.ttf') format('truetype');
+        }
+        @font-face {
+            font-family: 'Open Sans B';
+            src:  url('static/images/OpenSans/OpenSans-Bold.ttf') format('truetype');
+        }
+        html{
+            background:url('static/images/clemence-bergougnoux-EE1B5Kvu6yg-unsplash.jpg') no-repeat center fixed;
+            background-size: cover;
+            height: 100%;
+            overflow: hidden;
+        }
+        body{
+
+            text-align: center;
+        }
+
+        h1{
+            margin-top:75px;
+            font-family: 'Open Sans B';
+            font-size: 50px;
+            text-align: center;
+            color:rgba(0,0,0,0.6);
+        }
+
+        
+        form{
+
+            font-family: 'Open Sans';
+            width:30%;
+            margin-top: 175px;
+            text-align:center;
+            display:inline-block;
+        }
+        .subbutton{
+            color:black;
+            background-color: white;
+            outline: 0;
+            opacity:80%;
+            margin-left:3px;
+        }
+        .subbutton:hover{
+            color:white;
+            background-color: black;
+            cursor:pointer;
+            opacity:100%;
+            transition:opacity 300ms linear;
+            transition: color 300ms linear;
+            transition: background-color 300ms linear;
+        }
+        form input[type="text"], input[type="password"], input[type="submit"]{
+            border:1px solid rgba(0,0,0,0.4);
+            margin-top: 15px;
+            height:22px;
+            width:100%;
+            text-align: center;
+        }
+        form input[type="text"], input[type="password"]{
+            color:white;
+            opacity:50%;
+        }
+        form input[type="text"]:hover, input[type="password"]:hover{
+            outline: none;
+            background-color:white;
+            opacity:90%;
+            transition: background-color 300ms linear;
+            transition: opacity 300ms linear;
+            
+        }
+        
+        form input[type="text"]:focus, input[type="password"]:focus{
+            outline: none;
+            opacity:90%;
+            color:black;
+        }
+        form input[type="text"]:not(:placeholder-shown), input[type="password"]:not(:placeholder-shown){
+            outline: 0;
+            opacity:100%;
+            color:black;
+        }
+    </style>
+</head>
+<body>
+    <h1>Sign Up</h1>
+    <form action = "" method = "post">
+        <input type="text" placeholder="Username" name = "user"><br>
+        <input type="password" placeholder="Password" name="passwd"><br>
+        <input type="submit" placeholder="Submit" class="subbutton"><br>
+    </form>
+    
+</body>
+</html>

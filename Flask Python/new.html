@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #tester{
+            width:100px;
+            height:100px;
+            background-color: red;
+            position:relative;
+            top: 150px;px;
+            left:0px;
+            display:flex;
+            justify-content: center;
+            align-items: center;
+           
+        }
+          #tester #test{
+            width:20px;
+            height:20px;
+            /* position:absolute; */
+            /* top:50%;
+            left:50%;
+            margin: -10px 0 0 -10px; */
+            box-shadow: 0px 0px 0px 0px black;
+            background-color:white;
+            animation: large;
+            animation-duration: 5s;
+            animation-iteration-count: infinite;
+            animation-timing-function: linear;
+          
+            
+        }
+        @keyframes large {
+            0%{
+                width:0%;
+            }
+            50%{
+                width:100%;
+            }
+            to{
+                width:0%;
+            }
+            
+        }
+        #tester #test:hover{
+            width:100px;
+            background-color: black;
+        }
+    </style>
+</head>
+<body>
+    <div id = "tester">
+        <div id = "test"></div>
+        
+    </div>
+</body>
+</html>
