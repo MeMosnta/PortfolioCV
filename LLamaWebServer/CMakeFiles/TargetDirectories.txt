@@ -1,0 +1,5 @@
+/Users/lcanham/alpaca copy.cpp/CMakeFiles/chat.dir
+/Users/lcanham/alpaca copy.cpp/CMakeFiles/quantize.dir
+/Users/lcanham/alpaca copy.cpp/CMakeFiles/ggml.dir
+/Users/lcanham/alpaca copy.cpp/CMakeFiles/edit_cache.dir
+/Users/lcanham/alpaca copy.cpp/CMakeFiles/rebuild_cache.dir
