@@ -5,7 +5,7 @@
 Using Facebook's LLama and Alpaca AI Language models, I created a simple web server, using Crow (based on Python's flask, for C++), that would allow other devices on the WIFI to send a prompt to the Alpaca Model and it would return the generated answer based on the prompt. This allowed the users to not have to download the large Model, whilst being able to have unlimited access to the model.
 (Weights not included)
 
-<a href = "https://github.com/ggerganov/llama.cpp">llamma.cpp</a>
+<a href = "https://github.com/ggerganov/llama.cpp">llama.cpp</a>
 
 <img src = "https://user-images.githubusercontent.com/1991296/224575029-2af3c7dc-5a65-4f64-a6bb-517a532aea38.png">
 
