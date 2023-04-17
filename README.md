@@ -1,8 +1,8 @@
 <h1>Lewis Canham Portfolio</h1>
 
-<h2>LLama Webserver</h2>
+<h2>LLama Webserver (C++)</h2>
 
-Using Facebook's LLama and Alpaca AI Language models, I created a simple web server that would allow other devices on the WIFI to send a prompt to the Alpaca Model and it would return the generated answer based on the prompt. This allowed the users to not have to download the large Model, whilst being able to have unlimited access to the model.
+Using Facebook's LLama and Alpaca AI Language models, I created a simple web server, using Crow (based on Python's flask, for C++), that would allow other devices on the WIFI to send a prompt to the Alpaca Model and it would return the generated answer based on the prompt. This allowed the users to not have to download the large Model, whilst being able to have unlimited access to the model.
 (Weights not included)
 
 <a href = "https://github.com/ggerganov/llama.cpp">llamma.cpp</a>
