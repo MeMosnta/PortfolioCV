@@ -1,5 +1,12 @@
 <h1>Lewis Canham Portfolio</h1>
 
+<h2>LLama Webserver</h2>
+
+Using Facebook's LLama and Alpaca AI Language models, I created a simple web server that would allow other devices on the WIFI to send a prompt to the Alpaca Model and it would return the generated answer based on the prompt. This allowed the users to not have to download the 4 GB Model, whilst being able to have unlimited access to the model.
+(Weights not included)
+
+<a href = "https://github.com/ggerganov/llama.cpp">llamma.cpp</a>
+
 <h2>Advent of Code-</h2>
 
 https://adventofcode.com/2022/about
