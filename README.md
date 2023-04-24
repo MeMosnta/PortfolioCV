@@ -39,3 +39,6 @@ below.
 <h2>Flask / Web Development (WIP) </h2>
 
 I have been working on developing websites using flask, as well as just pure html/css webites, I have included some work that is still ongoing within the Flask Python Folder, which I hope will become my personal website in the near future.
+
+<h2> SQL COURSE (Reed) </h2>
+<img width="1021" alt="Screenshot 2023-04-24 at 12 56 12" src="https://user-images.githubusercontent.com/39033905/233989272-3c55140d-7479-470f-883d-02dcc9c124a3.png">
